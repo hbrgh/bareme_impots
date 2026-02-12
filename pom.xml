@@ -3,7 +3,7 @@
 
   <groupId>condeminov.finance.medical</groupId>
   <artifactId>bareme_impots</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <name>baremes_impots</name>
   <description>baremes des impots pour particuliers et societes</description>
     <properties>
